@@ -24,8 +24,3 @@ http://binarygame.epizy.com/?i=3
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-batra-5389081b1/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajatBa30455194)
-## User Interface
-
-![App Screenshot](https://github.com/Rajat-Batra17/Binary_Game-X-O-game/blob/main/Screenshot/Screenshot%202022-12-02%20224452.png?raw=true)
-
-![App Screenshot](https://github.com/Rajat-Batra17/Binary_Game-X-O-game/blob/main/Screenshot/Screenshot%202022-12-02%20224559.png?raw=true)
